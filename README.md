@@ -29,7 +29,9 @@ For your best customers, you have a secret password that enables them to get dis
 To accommodate the occasional muggle who may drop by, or to remind the absent-minded 3rd years of the currency, you also post the following sign on your cart:
 
 > **Note 1:** We appreciate exact change!
+
 > **Note 2:** The operator does not have more than 20 galleons in the cart at a time!
+
 > **Note 3:** Recall our currency options:
 >
 > ​	29 Knuts == 1 Sickle
